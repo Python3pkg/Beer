@@ -1,9 +1,10 @@
 import time
 
+
 class SinTaxError(Exception):
-	def __init__(self,message,errors=None):
-		super(SinTaxError, self).__init__(message)
-		self.errors = errors
+    def __init__(self, message, errors=None):
+        super(SinTaxError, self).__init__(message)
+        self.errors = errors
 
 if time.localtime().tm_hour < 17:
-	raise SinTaxError("It is not even 5 o'clock")
+    raise SinTaxError("It is not even 5 o'clock")
