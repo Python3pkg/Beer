@@ -1,5 +1,6 @@
 # beer
 [![Build Status](https://travis-ci.org/schae234/Beer.svg?branch=master)](https://travis-ci.org/schae234/Beer)
+
 Beer is a python package providing intoxication.
 
 ## Running tests
