@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Making a gh-apges site"
+date:   2016-02-08 15:49:31 -0600
+categories: 
+---
+
+
 Getting the repo
 
 		$ git clone git@github.com:dnedveck/Beer.git
