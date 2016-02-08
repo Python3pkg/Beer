@@ -5,6 +5,7 @@ date:   2016-02-08 15:49:31 -0600
 categories: 
 ---
 
+Took me: 19 minutes
 
 Getting the repo
 
