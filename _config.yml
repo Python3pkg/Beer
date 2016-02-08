@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Beer, a Python package -- now PEP8 compliant!
 baseurl: "/Beer" # the subpath of your site, e.g. /blog
 url: "http://dnedveck.com" # the base hostname & protocol for your site
-twitter_username: dnedveck
-github_username:  dnedveck
+twitter_username: CSciBio
+github_username: schae234
 
 # Build settings
 markdown: kramdown
