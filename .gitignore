@@ -1,5 +1,3 @@
-__pycache__
-*.pyc
-*.egg-info
-.tox
-.coverage
+_site
+.sass-cache
+.jekyll-metadata
