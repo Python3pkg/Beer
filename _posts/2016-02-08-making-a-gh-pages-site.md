@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making a gh-apges site"
+title:  "Making a gh-pages site"
 date:   2016-02-08 15:49:31 -0600
 categories: 
 ---

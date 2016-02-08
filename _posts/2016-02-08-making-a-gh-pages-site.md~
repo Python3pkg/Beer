@@ -66,3 +66,10 @@ Let's see what it made:
 
 
 Just to get things rolling, I'm going to edit the _config.yml, save this as a post, and then push to GitHub
+
+pushing to github
+
+		$ git push --set-upstream origin gh-pages
+
+
+
